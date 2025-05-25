@@ -7,3 +7,9 @@ México es conocido por su rica tradición en bebidas, tanto alcohólicas como n
 3. Pulque.
 4. Cerveza mexicana.
 ---
+## *Bebidas sin alcohol 🥤*
+1. Agua de horchata.
+2. Agua de jamaica.
+3. Atole.
+4. Champurrado.
+5. Tepache.
