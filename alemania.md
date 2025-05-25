@@ -7,3 +7,9 @@ Alemania tiene una gran tradición en la producción y consumo de bebidas, espec
 3. Schnaps.
 4. Radler.
 ---
+*Bebidas sin alcohol 🥤*
+1. Apfelschorle.
+2. Spezi.
+3. Most (Süßmost)
+4. Te de frutas o hierbas.
+---
