@@ -7,3 +7,9 @@ Brasil es un país tropical con una gran diversidad de frutas, climas y tradicio
 3. Batida.
 4. Vinho quente / Quentão.
 ---
+## *Bebidas sin alcohol 🥤*
+1. Guaraná.
+2. Suco natural (jugos naturales).
+3. Água de coco (agua de coco).
+4. Chimarrão (mate caliente).
+---
