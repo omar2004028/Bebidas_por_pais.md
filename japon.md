@@ -7,3 +7,9 @@ Japón cuenta con una gran variedad de bebidas tradicionales que forman parte es
 3. Umeshu (梅酒)
 4. Cerveza japonesa
 ---
+## *Bebidas sin alcohol 🥤*
+1. Té verde (緑茶 - Ryokucha)
+2. Matcha (抹茶)
+3. Ramune
+4. Calpis (o Calpico)
+5. Amazake
